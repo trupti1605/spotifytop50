@@ -6,22 +6,22 @@ Table of content
 
 2.Dealing with missing values
 
-3.Data visualization
+3.Data visualization-
 
-   1.Count plot
+               1.Count plot
 
-   2.Histogram
+               2.Histogram
 
-   3.Violinplot
+               3.Violinplot
+    
+               4.Boxplot
 
-   4.Boxplot
+               5.Swarmplot
 
-   5.Swarmplot
+               6.Factorplot
 
-   6.Factorplot
+               7.Heatmap
 
-   7.Heatmap
+               8.Wordcloud
 
-   8.Wordcloud
-
-   9.Piechart
+               9.Piechart
